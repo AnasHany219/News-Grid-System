@@ -86,10 +86,9 @@ p {
     border-radius: 15px;
     font-size: 10px;
     text-transform: uppercase;
-    font-weight: 100;
     padding: 0.4rem 0.6rem;
-    margin-bottom: 0.5rem;
-    color: var(--light-gray);
+    margin-bottom: 1rem;
+    color: #fff;
 }
 
 .label-sports {
